@@ -68,8 +68,9 @@ function draw() {
     text(mouseX+","+mouseY,400,30); 
   
     
+  bird.velocityY = bird.velocityY+0.5
   
-   // bird.velocityX= bird.velocityX + 0.8
+
   
      
      
